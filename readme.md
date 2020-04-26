@@ -1,4 +1,4 @@
-# PROJECT NAME : WEILI CHEN PORTFOLIO
+# PROJECT NAME : MY RESUME
 
     This is a online resume about myself where companies view my information and engage me if they want to hire me as a website programmer.
     
