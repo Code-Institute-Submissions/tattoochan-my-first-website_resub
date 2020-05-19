@@ -1,5 +1,5 @@
 
-header {
+nav {
     box-sizing: border-box;
     text-align: center;
     width: 100%;
@@ -12,13 +12,13 @@ header {
 
 
 
-header h1{
+nav h1{
     float: left;
     font: normal 24px/1.5 'Open Sans', sans-serif;
     color: #fff;
 }
 
-header a{
+nav a{
 color: #666;
     float: right;
     text-decoration: none;
