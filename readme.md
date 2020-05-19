@@ -1,8 +1,9 @@
 # PROJECT NAME : MY ONLINE RESUME
 
-    This is a online resume about myself where companies view my information and engage me if they want to hire me as a website programmer.
-    Link : https://github.com/tattoochan/my-first-website
-    
+This is a online resume about myself where companies view my information and engage me if they want to hire me as a website programmer.
+
+Link : https://tattoochan.github.io/my-first-website/
+
 ## UX
 
 •   The website consists of 4 sections, namely “Intro”, “About Me”, “My Skills” followed by a “Contact” section.
